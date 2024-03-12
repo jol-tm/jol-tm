@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jol-tm
-- 👀 I’m interested in technology and coding!
-- 🌱 I’m currently learning coding web an mobile apps
+- 👀 I’m interested in technology and coding! 👨‍💻
+- 🌱 I’m currently learning coding web an mobile apps 🖥️ 📱 ✨
 
 <!---
 jol-tm/jol-tm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
