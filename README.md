@@ -2,6 +2,9 @@
 - 👋 I’m @jol-tm
 - 👀 Interested in technology and coding! 👨‍💻
 - 🌱 Currently learning coding games, web and mobile apps 🎮 🖥️ 📱 ✨
+
+**Contact**: joaolucastmagalhaes@gmail.com
+
 ## Used Technologies 🪛
 <div>
   <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap Logo" width="100">
